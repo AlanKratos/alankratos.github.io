@@ -1,24 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.7c62cff6.css",
-    "main.js": "/static/js/main.5d414625.js",
+    "main.css": "/static/css/main.fdf466ce.css",
+    "main.js": "/static/js/main.76d6b5be.js",
     "static/media/me-about.jpg": "/static/media/me-about.df1d5b8811f015bb8b95.jpg",
     "static/media/me.png": "/static/media/me.99b7ab6970593aa2f448.png",
     "static/media/cv.pdf": "/static/media/cv.9621dcd9f7bad66ba403.pdf",
     "static/media/Website_Alan.png": "/static/media/Website_Alan.5c67686817afc8482fae.png",
-    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/indicadores_bi.jpg": "/static/media/indicadores_bi.72d1107e313049cf15a7.jpg",
     "static/media/Complemento_Bling.png": "/static/media/Complemento_Bling.08fc1431e88a8ae868cf.png",
     "static/media/pt-br.png": "/static/media/pt-br.50bea274cdb88381e91b.png",
     "static/media/en-us.png": "/static/media/en-us.5b46a337255d61cfd62e.png",
-    "static/media/Jogo_da_velha.png": "/static/media/Jogo_da_velha.df4202f0270858c78bcf.png",
     "index.html": "/index.html",
-    "main.7c62cff6.css.map": "/static/css/main.7c62cff6.css.map",
-    "main.5d414625.js.map": "/static/js/main.5d414625.js.map"
+    "main.fdf466ce.css.map": "/static/css/main.fdf466ce.css.map",
+    "main.76d6b5be.js.map": "/static/js/main.76d6b5be.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c62cff6.css",
-    "static/js/main.5d414625.js"
+    "static/css/main.fdf466ce.css",
+    "static/js/main.76d6b5be.js"
   ]
 }
