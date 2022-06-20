@@ -9,7 +9,6 @@
     text-decoration: none;
 }
 
-/*root permite criar variáveis no css para que você possa chamar as cores em qualquer lugar necessário, facilitando o desenvolvimento*/
 :root {
     --color-bg: #1f1f38;
     --color-bg-variant: #2c2c6c;

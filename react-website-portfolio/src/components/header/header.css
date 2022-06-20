@@ -1,5 +1,5 @@
 header{
-    height: 100vh;
+    
     padding-top: 3rem;
     overflow: hidden;
 }
@@ -80,22 +80,22 @@ header{
 
 @media screen and (max-width: 500px){
     header{
-         height: 100vh;
+         height: 130vh;
     }
     .header__socials,
     .scroll__down{
-        display: flex;
+        display: none;
     
     }
     .me{
-        width: 20rem;
-        height: 25rem;
+        width: 24rem;
+        height: 29rem;
         position: absolute;
-        left: calc(50% - 10rem);
+        left: calc(50% - 12rem);
         margin-top: 7rem;
         border-radius: 12rem 12rem 0 0;
         overflow: hidden;
-        padding: 5rem 1.5rem 1.5rem 1.5rem; 
+        padding: 5rem 1.5rem 1.5rem 1.5rem;
     }
 }
 
@@ -106,13 +106,13 @@ header{
     }
     .header__socials,
     .scroll__down{
-        display: flex;
+        display: none;
     }
     .me{
-        width: 15rem;
-        height: 19rem;
+        width: 18rem;
+        height: 22rem;
         position: absolute;
-        left: calc(50% - 7.5rem);
+        left: calc(50% - 9rem);
         margin-top: 7rem;
         border-radius: 12rem 12rem 0 0;
         overflow: hidden;
@@ -163,18 +163,24 @@ header{
 
 @media screen and (max-height: 700px){
     header{
-        height: 140vh;
+        height: 120vh;
     }
 }
 
 @media screen and (max-height: 600px){
     header{
-        height: 180vh;
+        height: 130vh;
+    }
+}
+
+@media screen and (max-height: 500px){
+    header{
+        height: 190vh;
     }
 }
 
 @media screen and (max-height: 400px){
     header{
-        height: 250vh;
+        height: 200vh;
     }
 }
