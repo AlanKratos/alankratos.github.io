@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.2bdfb974.css",
-    "main.js": "/static/js/main.95d07842.js",
+    "main.js": "/static/js/main.0a3acbca.js",
     "static/media/me-about.jpg": "/static/media/me-about.df1d5b8811f015bb8b95.jpg",
     "static/media/me.png": "/static/media/me.99b7ab6970593aa2f448.png",
-    "static/media/cv.pdf": "/static/media/cv.63b1ae8b288ce2836f79.pdf",
+    "static/media/Curriculo-Alan-Rodrigues.pdf": "/static/media/Curriculo-Alan-Rodrigues.93590b5210f99ff6936b.pdf",
     "static/media/Website_Alan.png": "/static/media/Website_Alan.5c67686817afc8482fae.png",
     "static/media/indicadores_bi.jpg": "/static/media/indicadores_bi.72d1107e313049cf15a7.jpg",
     "static/media/Complemento_Bling.png": "/static/media/Complemento_Bling.08fc1431e88a8ae868cf.png",
@@ -12,10 +12,10 @@
     "static/media/en-us.png": "/static/media/en-us.5b46a337255d61cfd62e.png",
     "index.html": "/index.html",
     "main.2bdfb974.css.map": "/static/css/main.2bdfb974.css.map",
-    "main.95d07842.js.map": "/static/js/main.95d07842.js.map"
+    "main.0a3acbca.js.map": "/static/js/main.0a3acbca.js.map"
   },
   "entrypoints": [
     "static/css/main.2bdfb974.css",
-    "static/js/main.95d07842.js"
+    "static/js/main.0a3acbca.js"
   ]
 }
