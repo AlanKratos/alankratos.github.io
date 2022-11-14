@@ -39,7 +39,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Meu nome é Alan, trabalhei como consultor de sistemas por 12 anos e e meu último trabalho foi como Analista de Integrações de ERPs para a empresa Blu.<br></br><br></br>
+            Meu nome é Alan, trabalhei como consultor de sistemas por 12 anos e atualmente atuo como Analista Desenvolvedor de Software na Energisa.<br></br><br></br>
             Sempre fui apaixonado pela área de desenvolvimento. Estou estudando nos últimos anos com intuito de me tornar um desenvolvedor conceituado.<br></br>    
           </p>
           <a href='#contact' className='btn btn-primary'>Vamos Conversar</a>
