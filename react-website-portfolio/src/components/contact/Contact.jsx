@@ -14,7 +14,7 @@ const Contact = () => {
     emailjs.sendForm('service_tasfwca', 'template_nzkwzpf', form.current, 'YPCKJDVfud_AxGJpu')
 
     e.target.reset()
-      
+
   };
 
   return (
@@ -34,7 +34,7 @@ const Contact = () => {
             <BsWhatsapp className='contatc__option-icon' />
             <h4>WhatsApp</h4>
             <h5>+55 (32) 99904-8972</h5>
-            <a href='https://api.whatsapp.com/send?phone+5532999048972' target='_blank'>Enviar uma mensagem</a>
+            <a href='https://wa.me/+5532999048972' target='_blank'>Enviar uma mensagem</a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>
